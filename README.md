@@ -48,7 +48,7 @@ Go to: **http://localhost:5000**
 | AI        | Groq API (Llama 3.3 70B) |
 | Auth      | Firebase Authentication  |
 | Database  | Firebase Firestore       |
-| Frontend  | HTML + CSS + Vanilla JS  |
+| Frontend  | HTML + CSS +  JS  |
 
 ---
 
